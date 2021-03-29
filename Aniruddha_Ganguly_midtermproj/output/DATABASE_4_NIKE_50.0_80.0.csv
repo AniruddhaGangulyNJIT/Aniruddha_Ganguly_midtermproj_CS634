@@ -1,0 +1,11 @@
+,Association_Rules,Support(%),Confidence(%)
+0,Socks --> Sweatshirts,60.0,92.3076923076923
+1,Sweatshirts --> Socks,60.0,92.3076923076923
+3,Sweatshirts --> Running Shoe,55.00000000000001,84.61538461538461
+5,Socks --> Running Shoe,55.00000000000001,84.61538461538461
+7,Modern Pants --> Sweatshirts,50.0,100.0
+8,Swimming Shirt --> Rash Guard,50.0,90.9090909090909
+9,Rash Guard --> Swimming Shirt,50.0,83.33333333333334
+11,Running Shoe & Socks --> Sweatshirts,50.0,90.9090909090909
+13,Running Shoe & Sweatshirts --> Socks,50.0,90.9090909090909
+14,Socks & Sweatshirts --> Running Shoe,50.0,83.33333333333334

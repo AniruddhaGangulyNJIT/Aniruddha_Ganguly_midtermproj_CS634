@@ -1,0 +1,31 @@
+,Association_Rules,Support(%),Confidence(%)
+0,Socks --> Sweatshirts,60.0,92.3076923076923
+1,Sweatshirts --> Socks,60.0,92.3076923076923
+2,Running Shoe --> Sweatshirts,55.00000000000001,78.57142857142858
+3,Sweatshirts --> Running Shoe,55.00000000000001,84.61538461538461
+4,Running Shoe --> Socks,55.00000000000001,78.57142857142858
+5,Socks --> Running Shoe,55.00000000000001,84.61538461538461
+6,Sweatshirts --> Modern Pants,50.0,76.92307692307692
+7,Modern Pants --> Sweatshirts,50.0,100.0
+8,Swimming Shirt --> Rash Guard,50.0,90.9090909090909
+9,Rash Guard --> Swimming Shirt,50.0,83.33333333333334
+11,Modern Pants --> Socks,45.0,90.0
+12,Dry Fit V-Nick --> Rash Guard,45.0,100.0
+13,Rash Guard --> Dry Fit V-Nick,45.0,75.0
+15,Modern Pants --> Running Shoe,45.0,90.0
+16,Rash Guard --> Tech Pants,45.0,75.0
+17,Tech Pants --> Rash Guard,45.0,100.0
+18,Running Shoe --> Socks & Sweatshirts,50.0,71.42857142857143
+19,Running Shoe & Socks --> Sweatshirts,50.0,90.9090909090909
+20,Socks --> Running Shoe & Sweatshirts,50.0,76.92307692307692
+21,Running Shoe & Sweatshirts --> Socks,50.0,90.9090909090909
+22,Socks & Sweatshirts --> Running Shoe,50.0,83.33333333333334
+23,Sweatshirts --> Running Shoe & Socks,50.0,76.92307692307692
+25,Socks & Sweatshirts --> Modern Pants,45.0,75.0
+27,Modern Pants & Socks --> Sweatshirts,45.0,100.0
+28,Modern Pants & Sweatshirts --> Socks,45.0,90.0
+29,Modern Pants --> Socks & Sweatshirts,45.0,90.0
+31,Running Shoe & Sweatshirts --> Modern Pants,45.0,81.81818181818181
+33,Modern Pants & Running Shoe --> Sweatshirts,45.0,100.0
+34,Modern Pants & Sweatshirts --> Running Shoe,45.0,90.0
+35,Modern Pants --> Running Shoe & Sweatshirts,45.0,90.0

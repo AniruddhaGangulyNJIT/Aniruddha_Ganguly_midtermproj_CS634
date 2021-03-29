@@ -1,0 +1,17 @@
+,Association_Rules,Support(%),Confidence(%)
+0,Bed Skirts --> Kids Bedding,50.0,90.9090909090909
+1,Kids Bedding --> Bed Skirts,50.0,83.33333333333334
+2,Sheets --> Kids Bedding,50.0,100.0
+3,Kids Bedding --> Sheets,50.0,83.33333333333334
+4,Shams --> Kids Bedding,45.0,81.81818181818181
+5,Kids Bedding --> Shams,45.0,75.0
+6,Bed Skirts --> Sheets,45.0,81.81818181818181
+7,Sheets --> Bed Skirts,45.0,90.0
+8,Bed Skirts --> Shams,45.0,81.81818181818181
+9,Shams --> Bed Skirts,45.0,81.81818181818181
+10,Bed Skirts --> Kids Bedding & Sheets,45.0,81.81818181818181
+11,Bed Skirts & Sheets --> Kids Bedding,45.0,100.0
+12,Sheets --> Bed Skirts & Kids Bedding,45.0,90.0
+13,Bed Skirts & Kids Bedding --> Sheets,45.0,90.0
+14,Kids Bedding & Sheets --> Bed Skirts,45.0,90.0
+15,Kids Bedding --> Bed Skirts & Sheets,45.0,75.0

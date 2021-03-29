@@ -1,0 +1,11 @@
+,Association_Rules,Support(%),Confidence(%)
+0,Java: The Complete Reference --> Java For Dummies,50.0,100.0
+1,Java For Dummies --> Java: The Complete Reference,50.0,76.92307692307692
+2,A Beginner’s Guide --> Java: The Complete Reference,45.0,81.81818181818181
+3,Java: The Complete Reference --> A Beginner’s Guide,45.0,90.0
+6,A Beginner’s Guide --> Java For Dummies,45.0,81.81818181818181
+8,A Beginner’s Guide --> Java For Dummies & Java: The Complete Reference,45.0,81.81818181818181
+9,A Beginner’s Guide & Java: The Complete Reference --> Java For Dummies,45.0,100.0
+10,Java: The Complete Reference --> A Beginner’s Guide & Java For Dummies,45.0,90.0
+11,A Beginner’s Guide & Java For Dummies --> Java: The Complete Reference,45.0,100.0
+12,Java For Dummies & Java: The Complete Reference --> A Beginner’s Guide,45.0,90.0

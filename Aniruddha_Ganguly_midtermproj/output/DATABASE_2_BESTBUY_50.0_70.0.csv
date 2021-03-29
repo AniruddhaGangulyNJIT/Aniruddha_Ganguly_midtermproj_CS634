@@ -1,0 +1,13 @@
+,Association_Rules,Support(%),Confidence(%)
+0,Lab Top Case --> Anti-Virus,60.0,85.71428571428572
+1,Anti-Virus --> Lab Top Case,60.0,85.71428571428572
+2,Flash Drive --> Microsoft Office,55.00000000000001,84.61538461538461
+3,Microsoft Office --> Flash Drive,55.00000000000001,100.0
+4,Lab Top --> Lab Top Case,50.0,83.33333333333334
+5,Lab Top Case --> Lab Top,50.0,71.42857142857143
+6,Printer --> Flash Drive,50.0,100.0
+7,Flash Drive --> Printer,50.0,76.92307692307692
+8,Flash Drive --> Anti-Virus,50.0,76.92307692307692
+9,Anti-Virus --> Flash Drive,50.0,71.42857142857143
+10,Lab Top --> Anti-Virus,50.0,83.33333333333334
+11,Anti-Virus --> Lab Top,50.0,71.42857142857143

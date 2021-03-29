@@ -1,0 +1,5 @@
+,Association_Rules,Support(%),Confidence(%)
+0,Bed Skirts --> Kids Bedding,50.0,90.9090909090909
+1,Kids Bedding --> Bed Skirts,50.0,83.33333333333334
+2,Sheets --> Kids Bedding,50.0,100.0
+3,Kids Bedding --> Sheets,50.0,83.33333333333334
